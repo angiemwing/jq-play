@@ -1,0 +1,26 @@
+#page {
+  width: 500px;
+  margin: auto;
+}
+
+.roll {
+  color: blue;
+}
+
+
+.toggle {
+  color: darkgreen;
+}
+img {
+  height: 200px;
+  width: 200px:
+  display: block;
+  rotation: 18deg;
+}
+.new {
+  height: 300px;
+}
+button {
+  display: block;
+  margin-bottom: 50px;
+}
